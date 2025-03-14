@@ -1,8 +1,6 @@
 # Reference Sequence Comparison 
 
-
 We want assess whether reference choice impacts alignment quality and variant calling for DRAGEN and Oncoanalyser pipeline.
-
 
 - [documentation](/doc/) to generate data
   - 1 [Build Dragen reference](doc/Build_dragen_reference.md)
@@ -11,8 +9,10 @@ We want assess whether reference choice impacts alignment quality and variant ca
   - 4 [Analysis](/doc/analysis.md)
 - relevant output [data](/data/)
 - [scripts](/scripts/) to make figure
-- [presentation](https://unimelbcloud-my.sharepoint.com/:p:/r/personal/quentin_clayssen_unimelb_edu_au/Documents/aligment_reference_comparison_presentation.pptx?d=wcea70cb062a14e0681659b36c862b335&csf=1&web=1&e=pFtSSK) for progress summary
+- [presentation](/doc/aligment_reference_comparison_presentation.pptx) for progress summary
+
 ## ICAV2
+
 pipeline will be launch from [ICAV2](https://github.com/umccr/wiki/blob/main/computing/cloud/illumina/icav2.md)
 to connect
 
